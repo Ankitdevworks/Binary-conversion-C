@@ -1,7 +1,12 @@
-cd "/Users/ankitsingh/Desktop/HELLOW WORLD/C/book/chapter9,10,11/"
-git init
-git remote add origin https://github.com/Ankitdevworks/Binary-Conversion-C.git
-git branch -M main
-git add .
-git commit -m "Initial commit: Added binary conversion program"
-git push -u origin main
+# Binary Conversion in C
+
+## 📌 Description
+This is a simple C program that converts a **decimal number** to its **binary equivalent** using both **iterative** and **recursive** methods.
+
+## 🚀 Features
+- Accepts user input.
+- Converts decimal to binary using an **iterative approach**.
+- Converts decimal to binary using a **recursive approach**.
+- Demonstrates fundamental C programming concepts.
+
+## 📂 File Structure
